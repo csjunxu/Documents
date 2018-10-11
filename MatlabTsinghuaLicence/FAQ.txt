@@ -1,0 +1,7 @@
+注意事项：
+
+Q1. 启动Matlab提示license checkout failed？
+A1. 学校的Matlab为网络版，需要连通校园网使用，校外IP可通过SSLVPN客户端连通校园网使用。
+
+Q2. 安装Matlab for Linux后，桌面上没有MATLAB快捷图标。
+A2. Matlab中有些版本不支持建立桌面快捷方式，需要在终端（Terminal）中输入matlab命令启动该软件。
